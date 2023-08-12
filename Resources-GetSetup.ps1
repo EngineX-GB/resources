@@ -1,6 +1,6 @@
 # setup
 # Run in powershell with the following command:
-# powershell -executionpolicy bypass -File .\resources-setup.ps1
+# powershell -executionpolicy bypass -File .\Resources-GetSetup.ps1
 
 $TEMP_FOLDER = $env:USERPROFILE +"\Documents\Development\temp"
 $INSTALL_FOLDER = $env:USERPROFILE +"\Documents\Development\Tools"
